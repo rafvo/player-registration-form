@@ -1,5 +1,7 @@
 # Player Registration Form
 
+**Live demo:** https://player-registration-form-omega.vercel.app/
+
 A player registration form built with **Vue 2 + Vuetify + VeeValidate**.
 
 > Legacy project originally developed in **2022** as a hands-on exercise to demonstrate form componentization, field validation (CPF, email, password with regex) and VeeValidate integration with Vuetify.
